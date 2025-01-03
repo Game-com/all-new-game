@@ -18,7 +18,7 @@ Game.com
 
 ## 简介
 
-Game.com 是进行改良优化后 meme coin 发射平台。
+Game.com 是构建在 Solana 生态全新的 Fair Launch Protocol。并融合了 M3M3 奖励机制。Game.com 希望通过全新的 Fair Launch 协议和 M3M3 奖励模型将传统 Memecoin 的 Bonding Curve 的 PVP 玩法迁移至 PPP （全民获益）的新范式。
 
 ```typescript
 // mainnet/testnet NEW GAME Program ID

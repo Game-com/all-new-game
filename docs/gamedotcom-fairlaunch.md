@@ -18,7 +18,7 @@ Game.com
 
 ## Introduction
 
-Game.com is an enhanced and optimized meme coin launch platform.
+Game.com is a new Fair Launch Protocol built on the Solana ecosystem, integrated with the M3M3 reward mechanism. Game.com aims to transform the traditional PVP-style Bonding Curve model of Memecoins into a new PPP (Profit for Everyone) paradigm through its innovative Fair Launch Protocol and M3M3 reward model.
 
 ```typescript
 // mainnet/testnet NEW GAME Program ID
